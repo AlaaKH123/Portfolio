@@ -1,4 +1,4 @@
-(self["webpackChunkfloreceann_portfolio"] = self["webpackChunkfloreceann_portfolio"] || []).push([["vendor"],{
+(self["webpackChunkAlaKhmiri_portfolio"] = self["webpackChunkAlaKhmiri_portfolio"] || []).push([["vendor"],{
 
 /***/ 3191:
 /*!***************************************************************************************!*\

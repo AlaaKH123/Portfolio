@@ -2,224 +2,230 @@
 	"Header.Item1": "About me",
 	"Header.Item2": "Experience",
 	"Header.Item3": "Work",
-	"Header.Item4": "Testimonial",
+	"Header.Item4": "Certifications",
 	"Header.Item5": "Contact",
 	"Header.cvBtn": "Resume",
-	"Header.cvName": "FloreceAnn_Robles_Resume.pdf",
+	"Header.cvName": "CV-Ala Khmiri.pdf",
 	"Banner.Pretitle": "Hello! My name is",
-	"Banner.Description": "I'm a software engineer with <span class='underline'>over 5 years of experience</span>, specializing in developing systems, interfaces, bots, and technological solutions. I pride myself on my ability to translate project requirements into visually appealing and efficient solutions. Currently, I'm employed at <span class='underline'>RCG Global Services</span>, where I focus on building accessible, human-centered products.",
+	"Banner.Description":"I am a <span class='underline'>final Year Telecommunications Engineering Student</span> , Ambitious, dynamic, and motivated, my passion and skills in <span class='underline'>DevOps</span> , particularly in <span class='underline'>infrastructure automation and monitoring</span> , set me apart. My keen interest in <span class='underline'>artificial intelligence </span> adds an innovative dimension to my abilities. Currently, I aim to enhance my technical skills andapply them to innovative projects.",
 	"Banner.ActionBtn": "Get in touch",
 	"AboutMe.Title": "About me",
 	"AboutMe.Paragraphs": [
-		"Hey there, I'm Florece Ann. I hold a Bachelor's Degree in Computer Science and currently exploring the world of  Mobile App Design and Development. Throughout my career, I've been involved in various large-scale projects, prioritizing responsive design, performance optimization, and cross-functional collaboration. I love turning a project's 'wish list' into something that not only looks great but also performs well.",
-		"On a typical day, you'll find me working hand-in-hand with backend engineers on API integrations, turning designs into actual, clickable things, and squashing bugs with our QA team. I'm all about teamwork, taking ownership of what I do, and always looking for ways to help others grow in their roles, too.",
-		"Some of the technologies that I have trained and worked on include (but are not limited to):"
+
+		"With a solid expertise in DevOps, I stand out for my ability to automate infrastructures and implement advanced monitoring solutions. My keen interest in artificial intelligence adds an innovative dimension to my technical skills.",
+		"Throughout my career, I have led significant projects such as deploying a GitLab server to optimize source code management, implementing monitoring systems with Prometheus and Grafana, and enhancing security through SSH port modification and SSH key integration.",
+		"My experience also encompasses designing and implementing a Jenkins pipeline to automate the deployment of a Netflix web application, showcasing my proficiency in Git, Jenkins, Docker, Kubernetes, Helm, ArgoCD, SonarQube, Trivy.",
+		"Additionally, I actively participated in an exciting project using Azure DevOps to establish a robust CI/CD pipeline. This project aims to automate the deployment of a web application on Azure Kubernetes Service (AKS), harnessing the power of containers. My role involves optimizing source code management, implementing automated tests, and monitoring deployment, contributing to the realization of ambitious and innovative projects." ,
+		"Simultaneously, I successfully orchestrated the automated deployment of Kubernetes clusters through Terraform, Ansible, Vagrant, and Oracle Virtualbox, demonstrating my competence in system administration, virtualization, and microservices management.",
+		"My journey also extends into artificial intelligence, with practical experience in various deep learning algorithms and techniques. In development, I've undertaken diverse projects such as a web application for student management using SpringBoot and games involving anagrams and country capitals in Java.",
+		"Currently, I am immersed in the realm of deep learning, actively engaged in expanding my knowledge and honing my skills. My focus lies in creating intricate models, particularly in the domains of object detection and image deduction from databases. I am driven by a passion for unraveling the complexities of deep learning algorithms and their applications. Through hands-on experience, I am not only mastering the theoretical aspects but also delving into the practical intricacies of constructing models that discern and interpret information from diverse datasets. This journey represents my commitment to staying at the forefront of technological advancements and harnessing the power of deep learning for innovative and impactful solutions"
 	],
 	"AboutMe.conclude": [
 		"So that's a bit about me. Can't wait to bring my skills and passion to some more exciting projects!"
 	],
 	"Experience.Title": "Where I've Worked",
 	"Experience.Jobs": [
+	
 		{
-			"Tab": "RCG Global Services",
-			"Title": "Senior Front-end Developer",
-			"Date": "June 2021 - Present",
-			"Description": [
-				"Revamped and streamlined CSS for Disney Visa card banners by implementing scalable parent-child styles, resulting in an 80% decrease in reported bugs and a 20% increase in efficiency in maintaining and updating 50+ banners",
-				"Programmed new visa card and promotion pages for Disneyland, DisneyCruise, and DisneyWorld, accessed by millions globally",
-				"Implemented web accessibility and mobile responsiveness across different screen sizes",
-				"Performed a code review of pull requests to ensure code is 100% compliant to all standards and style guidelines of the team"
-			]
-		},
+			"Tab": "Lunar TC",
+			"Title": "Intern ",
+			"Date": "June 2023 - September 2023 - 4 months",
+			"Description": [ 
+				"Deployed a GitLab server to enhance source code management,",
+				"Implemented a monitoring system using Prometheus and Grafana forin-depth performance visibility",
+				"Strengthened security by modifyingSSH ports and adding SSH keys",
+				"<span class='underline'> Keywords : DevSecOps , Prometheus,Grafana,GitLab, Cloud Computing , SSH </span>"
 
-		{
-			"Tab": "CoreBridge",
-			"Title": "Senior Front-end Developer",
-			"Date": "January 2019 - June 2021",
-			"Description": [
-				"Led a 5-member team to migrate the old user interface / UI to an MVC design pattern, utilizing modern technologies such as Angular, HTML, CSS, and JavaScript",
-				"Ensured on-time task completion for a critical multiple trade show demo, resulting in the successful onboarding of multiple clients, demonstrating product quality, strong project management and collaboration skills",
-				"Provided technical guidance and leadership, which included facilitating daily scrum meetings, tasking out stories, and mentoring team members",
-				"Conducted bi-annual performance evaluations of 5 team members, providing constructive feedback and guidance, which contributed to individual growth and overall team success"
 			]
 		},
+	
+	
+	
 		{
-			"Tab": "CoDev",
-			"Title": "Web Developer",
-			"Date": "January 2015 - January 2019",
+			"Tab": "Tunisie Télécom",
+			"Title": "Intern",
+			"Date": "June 2021 - 1 month",
 			"Description": [
-				"Learned Angular within 2-weeks to build new features for a SaaS enterprise software which provides language translation service and  programmed new quality checker application which received a patent",
-				"Individually design, code, test, and deploy client’s Intouch Recovery Program website using PHP, HTML, jQuery, MySQL, and REST APIs",
-				"Expanded solo team to nine members, which brought estimated $324,000 income per year to the Company",
-				"Maintained and fixed production bugs for a Supply Chain Platform with 100M transactions"
-			]
-		},
-		{
-			"Tab": "Dynata",
-			"Title": "PHP Developer",
-			"Date": "July 2009 - January 2015",
-			"Description": [
-				"Programmed market research surveys for phone centers or the web",
-				"Deployed daily at least 2 web or phone survey forms",
-				"Programmed the real-time online reporting tool for the client and project management team"
+				"During my summer internship as a technician at Tunisie Telecom, I had the opportunity to discover the complex and dynamic universe of communication network infrastructures and to visualise the equipment that I studied in the school .",
+				"Among the missions that I carried out, I participated in office activities that are based on filtering customer complaints and assigning these complaints to the different field technicians.",
+				"I explored the different components of a network operator's central office, I participated in repair missions on site with technicians",
+				"<span class='underline'> Keywords : Networking ,5G, Optical Fiber , FTTH, xDSL </span>"
 			]
 		}
+
+
+
+
 	],
 	"FeatureProjects.Title": "Some Things I've Built",
 	"FeatureProjects.Label": "Featured Project",
 	"FeatureProjects.Projects": [
 		{
-			"Title": "Disney Visa Card Promotion Page",
-			"Description": "The website serves as a promotional platform for the Disney® Premier Visa® Card, a credit card tailored for fans of Disney and its associated brands. It offers an array of financial incentives and rewards aimed at enhancing the Disney experience for its cardholders. With a robust sign-up bonus, tiered rewards system, and exclusive member benefits, the site targets individuals planning Disney vacations or frequent expenditures on Disney-related products and services. The website aims to provide comprehensive information for potential customers, encapsulating everything from the card's utility for Disney vacations to its everyday use-cases. Overall, the project serves as a one-stop-shop for prospective cardholders to understand the card's financial and experiential benefits.",
+			"Title": "DevSecOps pipline for a Netflix clone",
+			"Description": "I took the helm in leading a transformative project centered on the automation of the deployment process for a cutting-edge Netflix clone web application, aiming to deliver an unparalleled user experience. To achieve this, I implemented a robust Jenkins Continuous Integration (CI) pipeline, orchestrating and optimizing all phases from initial development to the final delivery. In parallel, I seamlessly integrated ArgoCD into our workflow for efficient and reliable Continuous Delivery (CD). This dynamic combination of Jenkins and ArgoCD ensured a streamlined and automated process, allowing for swift and dependable releases while maintaining a focus on the immersive user experience. Throughout the project, version control was upheld using Git, ensuring a collaborative and organized development environment. Code quality was rigorously monitored with SonarQube, providing insights and improvements to enhance overall software reliability.",
 			"imgs": [
-				"assets/images/visa-card/disney1.png",
-				"assets/images/visa-card/disney2.png",
-				"assets/images/visa-card/disney3.png",
-				"assets/images/visa-card/disney4.png",
-				"assets/images/visa-card/disney5.png",
-				"assets/images/visa-card/disney6.png"
+				"assets/images/CI-CD-Project/jenkins 3.PNG",
+				"assets/images/CI-CD-Project/jenkins 1.png",
+				"assets/images/CI-CD-Project/jenkins 2.PNG",
+				"assets/images/CI-CD-Project/jenkins 4.PNG"
 			],
-			"demoLink": "https://disneyworld.disney.go.com/visa-card/",
+			"demoLink": "https://github.com/AlaaKH123/Pipline-DevSecOps",
 			"Technologies": [
-				"HTML/HTML5",
-				"CSS/CSS3",
-				"LESS",
-				"Angular",
-				"AngularJS",
-				"RxJS",
-				"NodeJS",
+				"                ",
 				"Jenkins",
-				"AWS",
 				"Git",
-				"Jira",
-				"Figma",
-				"Ultron"
-			]
-		},
-		{
-			"Title": "CoreBridge Software",
-			"Description": "CoreBridge Software specializes in business management solutions that enhance efficiency and streamline operations. Offering tools for workflow automation, customer relationship management, and real-time analytics, the platform is designed for seamless integration and scalability. Suitable for businesses of all sizes, CoreBridge aims to empower organizations with data-driven decision-making and optimized processes.",
-			"imgs": [
-				"assets/images/corebridge/corebridge1.png",
-				"assets/images/corebridge/corebridge2.png",
-				"assets/images/corebridge/corebridge3.png",
-				"assets/images/corebridge/corebridge4.png",
-				"assets/images/corebridge/corebridge5.png",
-				"assets/images/corebridge/corebridge6.png"
-			],
-			"demoLink": "https://corebridge.net/about-us/",
-			"Technologies": [
-				"HTML/HTML5",
-				"CSS/CSS3",
-				"LESS",
-				"Angular",
-				"Azure",
-				"C#",
-				".NET",
-				"Entity Framework",
-				"Bootstrap",
-				"PrimeNG",
-				"Git",
-				"Jira",
-				"Bitbucket",
-				"Zeplin",
-				"Figma"
-			]
-		},
-		{
-			"Title": " Kodaris Supply Chain Platform",
-			"Description": "The Supply Chain Platform offers a robust set of features designed to streamline and optimize supply chain operations for both end-users and administrators. Users can easily shop for supplies, track their orders in real-time, and access valuable content through the integrated CMS. On the other hand, administrators benefit from a comprehensive dashboard that provides real-time analytics, stock inventory management, and user activity tracking. With functionalities ranging from demand forecasting and vendor management to reporting and analytics, the platform serves as a one-stop solution for businesses looking to improve their supply chain efficiency and customer satisfaction.",
-			"imgs": [
-				"assets/images/kodaris/kodaris1.png",
-				"assets/images/kodaris/kodaris2.png",
-				"assets/images/kodaris/kodaris3.png",
-				"assets/images/kodaris/kodaris4.png"
-			],
-			"demoLink": "https://www.kodaris.com/",
-			"Technologies": [
-				"HTML",
-				"CSS",
-				"LESS",
-				"Angular",
-				"Angular Material",
-				"Bootstrap",
-				"Java",
-				"Git",
-				"Bitbucket"
-			]
-		},
-		{
-			"Title": "Lingotek Language Translation System",
-			"Description": "The Document Translation and Review Application serves as a comprehensive platform for both automated and customized translation services. Users can upload their documents and choose between the platform's advanced auto-translate feature or opt for custom translation by assigned linguists. These linguists then proceed through various stages such as 'Translate,' 'Review,' and 'Custom,' and their work is subjected to peer voting and review to ensure quality and accuracy. Additionally, the application offers an automated review feature for contracts and deals in multiple languages, ensuring that vital contextual elements are neither omitted nor lost in translation. This multi-faceted approach makes the platform a robust solution for individuals and businesses with diverse translation and review needs.",
-			"imgs": [
-				"assets/images/lingotek/lingotek1.png",
-				"assets/images/lingotek/lingotek2.png",
-				"assets/images/lingotek/lingotek3.png",
-				"assets/images/lingotek/lingotek4.png",
-				"assets/images/lingotek/lingotek5.png",
-				"assets/images/lingotek/lingotek6.jpeg"
-			],
-			"demoLink": "https://lingotek.com/",
-			"Technologies": [
-				"CoffeeScript",
-				"AngularJS",
-				"JQuery",
-				"Jade/Pug",
-				"Stylus",
-				"Angular Material",
-				"Webpack",
-				"Git",
-				"Bitbucket",
-				"JIRA",
+				"CI/CD",
+				"SonarQube",
 				"Docker",
-				"Java",
-				"NodeJS"
+				"Kubernetes",
+				"Helm",
+				"Argo CD"
+			]
+		},
+		{
+			"Title": "Automated deployment of a K8S cluster.",
+			"Description": "I took charge of a project aimed at automating the deployment of a Kubernetes cluster using Terraform. The primary objective was to efficiently orchestrate a local environment tailored for the seamless deployment of a ChatBot web application. The key technologies involved in this initiative included Kubernetes for container orchestration, Docker for containerization, Terraform for infrastructure provisioning, and PHP and SQL for developing and managing the ChatBot web application. This streamlined approach not only automated the deployment process but also provided a scalable and reproducible local environment for testing and development.",
+			"imgs": [
+				"assets/images/K8S-Terraform/Capture1.PNG",
+				"assets/images/K8S-Terraform/Capture2.PNG",
+				"assets/images/K8S-Terraform/Capture3.PNG",
+				"assets/images/K8S-Terraform/Capture4.PNG",
+				"assets/images/K8S-Terraform/Capture5.PNG",
+				"assets/images/K8S-Terraform/Capture6.PNG",
+				"assets/images/K8S-Terraform/Capture7.PNG"
+			],
+			"demoLink": "https://github.com/AlaaKH123/K8s-cluster-with-Terraform",
+			"Technologies": [
+				"Kubernetes",
+				"Terraform",
+				"Docker",
+				"Helm",
+				"PHP",
+				"MySQL",
+				"Git"	]
+		},
+		{
+			"Title": "Deployed a Kubernetes cluster using Ansible",
+			"Description":  "I led a project that deployed a Kubernetes cluster using Ansible, Vagrant, and Oracle Virtualbox. The main objective was to automate the deployment of cluster nodes with a practical approach. Leveraging Ansible for orchestration, YAML for configuration, and Vagrant with Oracle Virtualbox for virtualization, the project aimed to streamline the process efficiently. Shell scripts were also utilized to enhance automation, ensuring a smooth and reproducible deployment. The technology stack included Kubernetes for container orchestration, with YAML serving as the configuration language. Overall, the project achieved automated Kubernetes cluster deployment with a practical and concise methodology.",
+			"imgs": [
+				"assets/images/Ansible/Capture1.PNG",
+				"assets/images/Ansible/Capture2.PNG",
+				"assets/images/Ansible/Capture3.PNG",
+				"assets/images/Ansible/Capture4.PNG"
+			],
+			"demoLink": "https://github.com/AlaaKH123/K8s-cluster-Vagrant-Ansible",
+			"Technologies": [
+				"Kubernetes",
+				"Ansible",
+				"Docker",
+				"Shell Scripting",
+				"PYthon",
+				"Vagrant",
+				"Git",
+				"YAML"
+			]
+		},
+		{
+			"Title": "CI/CD pipeline with Azure DevOps.",
+			"Description": "This project aims to establish a robust CI/CD pipeline using Azure DevOps to automate the deployment process of a web application. The application will be deployed on Azure Kubernetes Service (AKS), harnessing the power and flexibility of containers. The CI/CD process will enable continuous integration of code changes, followed by automated continuous delivery to the production environment. By leveraging Azure DevOps, we will optimize source code management, automated testing, and deployment monitoring. Azure Kubernetes Service will serve as the deployment platform, providing efficient container orchestration to ensure seamless scalability of the application.",
+			"imgs": [
+				"assets/images/AzureDevOps/Capture1.PNG",
+				"assets/images/AzureDevOps/Capture2.PNG",
+				"assets/images/AzureDevOps/Capture3.PNG"
+			],
+			"demoLink": "https://github.com/AlaaKH123/Azure-Pipline",
+			"Technologies": [
+				"Azure",
+				"Azure DevOps",
+				"Docker",
+				"Azure Kubernetes Service",
+				"NodeJS",
+				"Git",
+				"YAML"
 			]
 		}
 	],
 	"OtherProjects.Title": "Other Noteworthy Projects",
 	"OtherProjects.Projects": [
 		{
-			"Title": "Toronto Recycling Quiz App",
-			"Description": "An ios quiz application about Recycling in Toronto. Allows user to pick their answer. View the result of the quiz. Allows multiple attempts until the user pass the quiz.",
-			"ghLink": "https://github.com/annrobles/QuizApp",
-			"demoLink": "https://github.com/annrobles/QuizApp",
-			"Technologies": ["Swift", "iOS"]
+			"Title": "ML and DL modeles",
+			"Description": "Practical experience with various algorithms: linear regression, logistic regression, decision trees, and KNN, as well as the application of deep learning techniques.",
+			"ghLink": "https://github.com/AlaaKH123/RegressionLogistic-KNN-DecisionTree",
+			"demoLink": "https://github.com/AlaaKH123/RegressionLogistic-KNN-DecisionTree",
+			"Technologies": ["Python", "Jupyter"]
 		},
 		{
-			"Title": "Habit Tracker App",
-			"Description": "An android habit tracker application, allows users to build a certain habit. User can track and update their habits. Users can also view leaderboard and community.",
-			"ghLink": "https://github.com/annrobles/Habit-Tracker",
-			"demoLink": "https://github.com/annrobles/Habit-Tracker",
-			"Technologies": ["Android", "Java", "FireBase", "Google Cloud", "ROM"]
+			"Title": "Anagram Game",
+			"Description":"Development of an anagram game to guess the word, followed by the display of scores.",
+			"ghLink": "https://github.com/AlaaKH123/Jeux-d-Anagrame",
+			"demoLink":"https://github.com/AlaaKH123/Jeux-d-Anagrame",
+			"Technologies": ["Java","MySQL"]
 		}
 	],
 	"Contact.Pretitle": "What’s Next",
 	"Contact.Title": "Get in touch!",
-	"Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+	"Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities.",
 	"Contact.Btn": "Say Hello",
-	"Testimonial.Title": "My clients' impressions of me",
-	"Testimonial.Items": [
+	
+	
+	"Certifications.Title": "My Certifications",
+	"Certifications.Items": [
+
 		{
-			"Comment": "I just wanted to give you a personal <span class='underline'>thank you for the years of service and dedication to CoDev</span>.  I understand that you are leaving to pursue an educational opportunity, and while I am <span class='underline'>sad to see you go</span>, I respect your effort to enhance your skills. I do sincerely hope that you consider returning to CoDev when your educational opportunities allow it, and I hope you stay in touch with the team locally, as well with me. If there is anything I can do to help you out, let me know.",
-			"Name": "Tony Morrison",
-			"Position": "CEO",
-			"Company": "CoDev",
-			"img": "assets/images/testimonial/tony-morrison.jpeg"
+			"Comment":"The IBM <span class='underline'> Continuous Integration and Continuous Deployment (CI/CD) </span> training has been transformative for my software development practices. It provided in-depth insights into best practices for automating the build, test, and deployment processes",
+			"Name": "Continuous Integration and Continuous Deployment (CI/CD)",
+			"Position": "2023",
+			"Company": "IBM",
+			"ID":"https://www.coursera.org/account/accomplishments/verify/2XHYLDZ58N23",
+			"img": "assets/images/certification/IBM-logo-blue1.png"
 		},
+
+
 		{
-			"Comment": "Florece is a <span class='underline'>driven self-starter</span> whom I have relied on to <span class='underline'>lead the front-end development effort for her team</span>. For the past several years, she has been diving into our challenging problems and finding ways to solve them, <span class='underline'>always putting in the time necessary to get to the right solutions</span>. Specifically, she has <span class='underline'>built innovative</span> tools to help our users translate content between languages, which brings challenges that require understanding internationalization and localization best practices, especially as they relate to web applications. She has <span class='underline'>never shied away from learning new technologies and frameworks</span>, and I am confident she will help push any development effort across the finish line. <span class='underline'>I give her my unqualified recommendation</span>!",
-			"Name": "Robert Bailey",
-			"Position": "Director of Software Engineering",
-			"Company": "Lingotek",
-			"img": "assets/images/testimonial/robert-bailey.jpeg"
+			"Comment":"The Cisco Python 1 certification has equipped me with a strong foundation in Python programming language, a crucial skill in the <span class='underline'> networking and cybersecurity </span> domains. I've acquired practical knowledge and hands-on experience in using Python for <span class='underline'> network automation, scripting, and solving real-world networking challenges </span>",
+			"Name": "Python 1",
+			"Position": "2023",
+			"Company": "Cisco",
+			"ID":"",
+			"img": "assets/images/certification/unnamed.jpg"
 		},
+
+
 		{
-			"Comment": "5/5 stars. She does not hesitate to call meetings and ask questions essential to move the team forward. She <span class='underline'>does not waste any time</span> to call the attention of her teammates to make sure everyone is on board. More often than not we find <span class='underline'>her team’s Jira board running low on tickets</span>. Shows <span class='underline'>great leadership</span> for Forza. Available for pairing and code reviews. Has a great understanding of team expectations, objectives, and output. Checks in with PM about team needs, such as additional work, and issues, such as team frictions and/or morale issues.",
-			"Name": "Tori Blount",
-			"Position": "Project Manager",
-			"Company": "CoreBridge",
-			"img": "assets/images/testimonial/tori-blount.png"
+			"Comment": "The Azure AI Fundamentals certification has equipped me with a comprehensive understanding of essential <span class='underline'> AI concepts, Azure AI services, </span> and practical skills in building <span class='underline'> AI solutions </span>.</span>",
+			"Name": "Azure AI Fundamentals",
+			"Position": "2023",
+			"Company": "Microsoft Azure",
+			"ID":"https://www.credly.com/badges/67a5f06f-e9b2-4e1b-bd42-15d55f68221c/public_url",
+			"img": "assets/images/certification/Microsoft-logo.png"
+		},
+
+		{
+			"Comment": "The Azure Data Fundamentals certification has provided me with a solid foundation in understanding <span class='underline'> fundamental data concepts and Azure data services </span> . I've gained practical skills in working with <span class='underline'> Azure data solutions, including storage, databases, and analytics services </spand>",
+			"Name": "Azure Data Fundamentals",
+			"Position": "2023",
+			"Company": "Microsoft Azure",
+			"ID":"https://www.credly.com/badges/985b2698-e05f-4525-9d89-f44b846362b0/public_url",
+			"img": "assets/images/certification/Microsoft-logo.png"
+		},
+
+		{
+			"Comment": "From the Azure Fundamentals certification, I gained a solid understanding of key <span class='underline'> Azure services and cloud concepts</span>, honed practical skills in managing cloud resources, and enhanced my ability to design and implement <span class='underline'>cloud solutions .</span>",
+			"Name": "Azure Fundamentals",
+			"Position": "2022",
+			"Company": "Microsoft Azure",
+			"ID":"https://www.credly.com/badges/a4c096b0-a2b1-4dd2-bc0c-58aed5ca6f13/linked_in_profile",
+			"img": "assets/images/certification/Microsoft-logo.png"
+		},
+
+		{
+			"Comment":"The CCNA 1 certification has been instrumental in providing me with a foundational understanding of <span class='underline'>networking principles, protocols, and technologies </span> . It has equipped me with essential skills in configuring and troubleshooting Cisco <span class='underline'> routers </span> and <span class='underline'> switches </span> , setting the stage for more advanced networking knowledge",
+			"Name": "CCNA 1 ",
+			"Position": "2021",
+			"Company": "Cisco",
+			"ID":"",
+			"img": "assets/images/certification/unnamed.jpg"
 		}
+
 	]
 }
