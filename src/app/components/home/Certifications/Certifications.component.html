@@ -1,0 +1,28 @@
+<section class="section Certifications" id="Certifications">
+	<div class="container">
+		<div class="section-box">
+			<div class="about-title mb-5" data-aos="fade-up" data-aos-duration="1000">
+				<h3 class="e-font section-title">
+					<span class="code-font n-section-title">04.</span>
+					{{ "Certifications.Title" | translate }}
+				</h3>
+			</div>
+		</div>
+		<ng-container
+			*ngFor="let Certifications of 'Certifications.Items' | translate; let i = index"
+		>
+			<div class="Certifications-content">
+				<p
+					[innerHTML]="Certifications.Comment"
+					data-aos="fade-up"
+					data-aos-duration="1000"
+				></p>
+				<img class="Certifications-photo" src="{{ Certifications.img }}" alt="" />
+				<div>
+					{{ Certifications.Name }}, {{ Certifications.Position }} From
+					{{ Certifications.Company }}
+				</div>
+			</div>
+		</ng-container>
+	</div>
+</section>

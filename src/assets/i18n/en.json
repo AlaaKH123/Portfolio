@@ -1,0 +1,231 @@
+{
+	"Header.Item1": "About me",
+	"Header.Item2": "Experience",
+	"Header.Item3": "Work",
+	"Header.Item4": "Certifications",
+	"Header.Item5": "Contact",
+	"Header.cvBtn": "Resume",
+	"Header.cvName": "CV-Ala Khmiri.pdf",
+	"Banner.Pretitle": "Hello! My name is",
+	"Banner.Description":"I am a <span class='underline'>final Year Telecommunications Engineering Student</span> , Ambitious, dynamic, and motivated, my passion and skills in <span class='underline'>DevOps</span> , particularly in <span class='underline'>infrastructure automation and monitoring</span> , set me apart. My keen interest in <span class='underline'>artificial intelligence </span> adds an innovative dimension to my abilities. Currently, I aim to enhance my technical skills andapply them to innovative projects.",
+	"Banner.ActionBtn": "Get in touch",
+	"AboutMe.Title": "About me",
+	"AboutMe.Paragraphs": [
+
+		"With a solid expertise in DevOps, I stand out for my ability to automate infrastructures and implement advanced monitoring solutions. My keen interest in artificial intelligence adds an innovative dimension to my technical skills.",
+		"Throughout my career, I have led significant projects such as deploying a GitLab server to optimize source code management, implementing monitoring systems with Prometheus and Grafana, and enhancing security through SSH port modification and SSH key integration.",
+		"My experience also encompasses designing and implementing a Jenkins pipeline to automate the deployment of a Netflix web application, showcasing my proficiency in Git, Jenkins, Docker, Kubernetes, Helm, ArgoCD, SonarQube, Trivy.",
+		"Additionally, I actively participated in an exciting project using Azure DevOps to establish a robust CI/CD pipeline. This project aims to automate the deployment of a web application on Azure Kubernetes Service (AKS), harnessing the power of containers. My role involves optimizing source code management, implementing automated tests, and monitoring deployment, contributing to the realization of ambitious and innovative projects." ,
+		"Simultaneously, I successfully orchestrated the automated deployment of Kubernetes clusters through Terraform, Ansible, Vagrant, and Oracle Virtualbox, demonstrating my competence in system administration, virtualization, and microservices management.",
+		"My journey also extends into artificial intelligence, with practical experience in various deep learning algorithms and techniques. In development, I've undertaken diverse projects such as a web application for student management using SpringBoot and games involving anagrams and country capitals in Java.",
+		"Currently, I am immersed in the realm of deep learning, actively engaged in expanding my knowledge and honing my skills. My focus lies in creating intricate models, particularly in the domains of object detection and image deduction from databases. I am driven by a passion for unraveling the complexities of deep learning algorithms and their applications. Through hands-on experience, I am not only mastering the theoretical aspects but also delving into the practical intricacies of constructing models that discern and interpret information from diverse datasets. This journey represents my commitment to staying at the forefront of technological advancements and harnessing the power of deep learning for innovative and impactful solutions"
+	],
+	"AboutMe.conclude": [
+		"So that's a bit about me. Can't wait to bring my skills and passion to some more exciting projects!"
+	],
+	"Experience.Title": "Where I've Worked",
+	"Experience.Jobs": [
+	
+		{
+			"Tab": "Lunar TC",
+			"Title": "Intern ",
+			"Date": "June 2023 - September 2023 - 4 months",
+			"Description": [ 
+				"Deployed a GitLab server to enhance source code management,",
+				"Implemented a monitoring system using Prometheus and Grafana forin-depth performance visibility",
+				"Strengthened security by modifyingSSH ports and adding SSH keys",
+				"<span class='underline'> Keywords : DevSecOps , Prometheus,Grafana,GitLab, Cloud Computing , SSH </span>"
+
+			]
+		},
+	
+	
+	
+		{
+			"Tab": "Tunisie Télécom",
+			"Title": "Intern",
+			"Date": "June 2021 - 1 month",
+			"Description": [
+				"During my summer internship as a technician at Tunisie Telecom, I had the opportunity to discover the complex and dynamic universe of communication network infrastructures and to visualise the equipment that I studied in the school .",
+				"Among the missions that I carried out, I participated in office activities that are based on filtering customer complaints and assigning these complaints to the different field technicians.",
+				"I explored the different components of a network operator's central office, I participated in repair missions on site with technicians",
+				"<span class='underline'> Keywords : Networking ,5G, Optical Fiber , FTTH, xDSL </span>"
+			]
+		}
+
+
+
+
+	],
+	"FeatureProjects.Title": "Some Things I've Built",
+	"FeatureProjects.Label": "Featured Project",
+	"FeatureProjects.Projects": [
+		{
+			"Title": "DevSecOps pipline for a Netflix clone",
+			"Description": "I took the helm in leading a transformative project centered on the automation of the deployment process for a cutting-edge Netflix clone web application, aiming to deliver an unparalleled user experience. To achieve this, I implemented a robust Jenkins Continuous Integration (CI) pipeline, orchestrating and optimizing all phases from initial development to the final delivery. In parallel, I seamlessly integrated ArgoCD into our workflow for efficient and reliable Continuous Delivery (CD). This dynamic combination of Jenkins and ArgoCD ensured a streamlined and automated process, allowing for swift and dependable releases while maintaining a focus on the immersive user experience. Throughout the project, version control was upheld using Git, ensuring a collaborative and organized development environment. Code quality was rigorously monitored with SonarQube, providing insights and improvements to enhance overall software reliability.",
+			"imgs": [
+				"assets/images/CI-CD-Project/jenkins 3.PNG",
+				"assets/images/CI-CD-Project/jenkins 1.png",
+				"assets/images/CI-CD-Project/jenkins 2.PNG",
+				"assets/images/CI-CD-Project/jenkins 4.PNG"
+			],
+			"demoLink": "https://github.com/AlaaKH123/Pipline-DevSecOps",
+			"Technologies": [
+				"                ",
+				"Jenkins",
+				"Git",
+				"CI/CD",
+				"SonarQube",
+				"Docker",
+				"Kubernetes",
+				"Helm",
+				"Argo CD"
+			]
+		},
+		{
+			"Title": "Automated deployment of a K8S cluster.",
+			"Description": "I took charge of a project aimed at automating the deployment of a Kubernetes cluster using Terraform. The primary objective was to efficiently orchestrate a local environment tailored for the seamless deployment of a ChatBot web application. The key technologies involved in this initiative included Kubernetes for container orchestration, Docker for containerization, Terraform for infrastructure provisioning, and PHP and SQL for developing and managing the ChatBot web application. This streamlined approach not only automated the deployment process but also provided a scalable and reproducible local environment for testing and development.",
+			"imgs": [
+				"assets/images/K8S-Terraform/Capture1.PNG",
+				"assets/images/K8S-Terraform/Capture2.PNG",
+				"assets/images/K8S-Terraform/Capture3.PNG",
+				"assets/images/K8S-Terraform/Capture4.PNG",
+				"assets/images/K8S-Terraform/Capture5.PNG",
+				"assets/images/K8S-Terraform/Capture6.PNG",
+				"assets/images/K8S-Terraform/Capture7.PNG"
+			],
+			"demoLink": "https://github.com/AlaaKH123/K8s-cluster-with-Terraform",
+			"Technologies": [
+				"Kubernetes",
+				"Terraform",
+				"Docker",
+				"Helm",
+				"PHP",
+				"MySQL",
+				"Git"	]
+		},
+		{
+			"Title": "Deployed a Kubernetes cluster using Ansible",
+			"Description":  "I led a project that deployed a Kubernetes cluster using Ansible, Vagrant, and Oracle Virtualbox. The main objective was to automate the deployment of cluster nodes with a practical approach. Leveraging Ansible for orchestration, YAML for configuration, and Vagrant with Oracle Virtualbox for virtualization, the project aimed to streamline the process efficiently. Shell scripts were also utilized to enhance automation, ensuring a smooth and reproducible deployment. The technology stack included Kubernetes for container orchestration, with YAML serving as the configuration language. Overall, the project achieved automated Kubernetes cluster deployment with a practical and concise methodology.",
+			"imgs": [
+				"assets/images/Ansible/Capture1.PNG",
+				"assets/images/Ansible/Capture2.PNG",
+				"assets/images/Ansible/Capture3.PNG",
+				"assets/images/Ansible/Capture4.PNG"
+			],
+			"demoLink": "https://github.com/AlaaKH123/K8s-cluster-Vagrant-Ansible",
+			"Technologies": [
+				"Kubernetes",
+				"Ansible",
+				"Docker",
+				"Shell Scripting",
+				"PYthon",
+				"Vagrant",
+				"Git",
+				"YAML"
+			]
+		},
+		{
+			"Title": "CI/CD pipeline with Azure DevOps.",
+			"Description": "This project aims to establish a robust CI/CD pipeline using Azure DevOps to automate the deployment process of a web application. The application will be deployed on Azure Kubernetes Service (AKS), harnessing the power and flexibility of containers. The CI/CD process will enable continuous integration of code changes, followed by automated continuous delivery to the production environment. By leveraging Azure DevOps, we will optimize source code management, automated testing, and deployment monitoring. Azure Kubernetes Service will serve as the deployment platform, providing efficient container orchestration to ensure seamless scalability of the application.",
+			"imgs": [
+				"assets/images/AzureDevOps/Capture1.PNG",
+				"assets/images/AzureDevOps/Capture2.PNG",
+				"assets/images/AzureDevOps/Capture3.PNG"
+			],
+			"demoLink": "https://github.com/AlaaKH123/Azure-Pipline",
+			"Technologies": [
+				"Azure",
+				"Azure DevOps",
+				"Docker",
+				"Azure Kubernetes Service",
+				"NodeJS",
+				"Git",
+				"YAML"
+			]
+		}
+	],
+	"OtherProjects.Title": "Other Noteworthy Projects",
+	"OtherProjects.Projects": [
+		{
+			"Title": "ML and DL modeles",
+			"Description": "Practical experience with various algorithms: linear regression, logistic regression, decision trees, and KNN, as well as the application of deep learning techniques.",
+			"ghLink": "https://github.com/AlaaKH123/RegressionLogistic-KNN-DecisionTree",
+			"demoLink": "https://github.com/AlaaKH123/RegressionLogistic-KNN-DecisionTree",
+			"Technologies": ["Python", "Jupyter"]
+		},
+		{
+			"Title": "Anagram Game",
+			"Description":"Development of an anagram game to guess the word, followed by the display of scores.",
+			"ghLink": "https://github.com/AlaaKH123/Jeux-d-Anagrame",
+			"demoLink":"https://github.com/AlaaKH123/Jeux-d-Anagrame",
+			"Technologies": ["Java","MySQL"]
+		}
+	],
+	"Contact.Pretitle": "What’s Next",
+	"Contact.Title": "Get in touch!",
+	"Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities.",
+	"Contact.Btn": "Say Hello",
+	
+	
+	"Certifications.Title": "My Certifications",
+	"Certifications.Items": [
+
+		{
+			"Comment":"The IBM <span class='underline'> Continuous Integration and Continuous Deployment (CI/CD) </span> training has been transformative for my software development practices. It provided in-depth insights into best practices for automating the build, test, and deployment processes",
+			"Name": "Continuous Integration and Continuous Deployment (CI/CD)",
+			"Position": "2023",
+			"Company": "IBM",
+			"ID":"https://www.coursera.org/account/accomplishments/verify/2XHYLDZ58N23",
+			"img": "assets/images/certification/IBM-logo-blue1.png"
+		},
+
+
+		{
+			"Comment":"The Cisco Python 1 certification has equipped me with a strong foundation in Python programming language, a crucial skill in the <span class='underline'> networking and cybersecurity </span> domains. I've acquired practical knowledge and hands-on experience in using Python for <span class='underline'> network automation, scripting, and solving real-world networking challenges </span>",
+			"Name": "Python 1",
+			"Position": "2023",
+			"Company": "Cisco",
+			"ID":"",
+			"img": "assets/images/certification/unnamed.jpg"
+		},
+
+
+		{
+			"Comment": "The Azure AI Fundamentals certification has equipped me with a comprehensive understanding of essential <span class='underline'> AI concepts, Azure AI services, </span> and practical skills in building <span class='underline'> AI solutions </span>.</span>",
+			"Name": "Azure AI Fundamentals",
+			"Position": "2023",
+			"Company": "Microsoft Azure",
+			"ID":"https://www.credly.com/badges/67a5f06f-e9b2-4e1b-bd42-15d55f68221c/public_url",
+			"img": "assets/images/certification/Microsoft-logo.png"
+		},
+
+		{
+			"Comment": "The Azure Data Fundamentals certification has provided me with a solid foundation in understanding <span class='underline'> fundamental data concepts and Azure data services </span> . I've gained practical skills in working with <span class='underline'> Azure data solutions, including storage, databases, and analytics services </spand>",
+			"Name": "Azure Data Fundamentals",
+			"Position": "2023",
+			"Company": "Microsoft Azure",
+			"ID":"https://www.credly.com/badges/985b2698-e05f-4525-9d89-f44b846362b0/public_url",
+			"img": "assets/images/certification/Microsoft-logo.png"
+		},
+
+		{
+			"Comment": "From the Azure Fundamentals certification, I gained a solid understanding of key <span class='underline'> Azure services and cloud concepts</span>, honed practical skills in managing cloud resources, and enhanced my ability to design and implement <span class='underline'>cloud solutions .</span>",
+			"Name": "Azure Fundamentals",
+			"Position": "2022",
+			"Company": "Microsoft Azure",
+			"ID":"https://www.credly.com/badges/a4c096b0-a2b1-4dd2-bc0c-58aed5ca6f13/linked_in_profile",
+			"img": "assets/images/certification/Microsoft-logo.png"
+		},
+
+		{
+			"Comment":"The CCNA 1 certification has been instrumental in providing me with a foundational understanding of <span class='underline'>networking principles, protocols, and technologies </span> . It has equipped me with essential skills in configuring and troubleshooting Cisco <span class='underline'> routers </span> and <span class='underline'> switches </span> , setting the stage for more advanced networking knowledge",
+			"Name": "CCNA 1 ",
+			"Position": "2021",
+			"Company": "Cisco",
+			"ID":"",
+			"img": "assets/images/certification/unnamed.jpg"
+		}
+
+	]
+}
